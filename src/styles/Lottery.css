@@ -1,0 +1,15 @@
+.Lottery-container {
+  margin: 10px;
+  width: 650px;
+  box-shadow: 5px 5px 5px #bbb;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Lottery-results {
+  display: flex;
+  justify-content: space-around;
+}
